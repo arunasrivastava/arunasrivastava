@@ -18,8 +18,6 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -28,10 +26,10 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-## My Stats
+## Stats
 <p>
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arunasrivastava&show_icons=true&theme=radical" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arunasrivastava&show_icons=true&theme=radical" /> -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arunasrivastava&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
@@ -40,8 +38,9 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/arunasri"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png"/></a>
-<a href="mailto:arunasrivastava.245@gmail.com"><img src="https://static.vecteezy.com/system/resources/previews/020/964/377/original/gmail-mail-icon-for-web-design-free-png.png"/></a>
+  <a href="https://www.linkedin.com/in/arunasri"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" width="50" height="50"/></a>
+  <a href="mailto:arunasrivastava.245@gmail.com"><img src="https://static.vecteezy.com/system/resources/previews/020/964/377/original/gmail-mail-icon-for-web-design-free-png.png" width="50" height="50"/></a>
+</p>
 
 <!--
 **arunasrivastava/arunasrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
