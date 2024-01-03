@@ -1,3 +1,4 @@
+<div style="background-color: black; color: white; padding: 20px;">
 ### Hi there 👋
 
 ## I'm Aruna.
@@ -36,6 +37,8 @@
 
 
 ##  🤝🏻 &nbsp;Connect with Me
+
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arunasri"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" width="50" height="50"/></a>
