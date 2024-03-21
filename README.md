@@ -6,6 +6,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
+- 🥰 &nbsp; I enjoy exploring various sectors of AI and working with SOTA models and tools
 - 🎓 &nbsp; Studying Computer Science at the University of Washington.
 
 
