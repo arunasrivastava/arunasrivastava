@@ -1,8 +1,11 @@
 
 ### Hi there 👋
 
-## I'm Aruna. (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ ✧ﾟ･: *ヽ(◕ヮ◕ヽ)
+## I'm Aruna. 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKzEuBWdBOQvDH2/giphy.gif" width="200" />
+</div>
 
 ### 💻 &nbsp;About Me 
 
