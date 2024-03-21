@@ -2,8 +2,10 @@
 ### Hi there 👋
 
 ## I'm Aruna. 
-
+<div>
   <img src="[https://media.giphy.com/media/3o7TKzEuBWdBOQvDH2/giphy.gif](https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif)" width="200" />
+</div>
+  
 
 
 ### 💻 &nbsp;About Me 
