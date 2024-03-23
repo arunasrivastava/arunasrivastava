@@ -1,12 +1,5 @@
-<div style="position: relative; width: 100%; height: 50%;">
-    <!-- Background image -->
-    <img src="imagery.svg" style="position: absolute; top: 0; left: 0; width: 100%; height: 50%;" />
-    
-    <!-- Text -->
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-        <p style="color: white; font-size: 24px;">Hello</p>
-    </div>
-</div>
+<img src="imagery.svg" height="50%" alt="Imagery">
+
 ### 💻 &nbsp;About Me
 
 - 🤔 &nbsp; Delving into innovative technologies and crafting software solutions for global tech challenges.
