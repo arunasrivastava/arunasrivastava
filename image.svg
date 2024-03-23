@@ -1,46 +1,37 @@
 <svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-    <!-- Background -->
-    <rect width="100%" height="100%" fill="#663399" />
-
-    <!-- Animated Waves -->
-    <g fill="#4b0082" opacity="0.8">
+    <!-- Waves Background -->
+    <rect width="100%" height="100%" fill="none" />
+    <g fill="#8a2be2" opacity="0.1">
         <path>
-            <animate repeatCount="indefinite" attributeName="d" dur="10s" values="
-                M0,100 C150,200 350,0 500,100 
-                650,200 850,0 1000,100 
-                V400 H0 V100 Z;
+            <animate repeatCount="indefinite" attributeName="d" dur="15s" values="
+                M0,400 Q200,150 400,400 T800,400 Z;
                 
-                M0,100 C150,0 350,200 500,100 
-                650,0 850,200 1000,100 
-                V400 H0 V100 Z
+                M0,400 Q200,300 400,400 T800,400 Z
             "/>
         </path>
+    </g>
+    <g fill="#9932cc" opacity="0.15">
         <path>
-            <animate repeatCount="indefinite" attributeName="d" dur="8s" values="
-                M0,100 C150,200 350,0 500,100 
-                650,200 850,0 1000,100 
-                V400 H0 V100 Z;
+            <animate repeatCount="indefinite" attributeName="d" dur="20s" values="
+                M0,400 Q100,250 200,400 T800,400 Z;
                 
-                M0,100 C150,0 350,200 500,100 
-                650,0 850,200 1000,100 
-                V400 H0 V100 Z
+                M0,400 Q150,200 300,400 T800,400 Z
+            "/>
+        </path>
+    </g>
+    <g fill="#ba55d3" opacity="0.2">
+        <path>
+            <animate repeatCount="indefinite" attributeName="d" dur="25s" values="
+                M0,400 Q50,300 100,400 T800,400 Z;
+                
+                M0,400 Q100,150 200,400 T800,400 Z
             "/>
         </path>
     </g>
 
-    <!-- Water Drops -->
-    <g fill="#9370db">
-        <circle cx="100" cy="200" r="3">
-            <animateMotion repeatCount="indefinite" dur="5s" path="M100,200 L90,210 L110,210 Z" />
-        </circle>
-        <circle cx="300" cy="150" r="3">
-            <animateMotion repeatCount="indefinite" dur="6s" path="M300,150 L290,160 L310,160 Z" />
-        </circle>
-        <circle cx="500" cy="180" r="3">
-            <animateMotion repeatCount="indefinite" dur="7s" path="M500,180 L490,190 L510,190 Z" />
-        </circle>
-    </g>
-
-    <!-- Text -->
-    <text x="50%" y="50%" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="#ffffff" dominant-baseline="middle">Hi there! I'm Aruna!</text>
+    <!-- Text with Typing Animation -->
+    <text x="50%" y="50%" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="#ffffff" dominant-baseline="middle">
+        <animate attributeName="opacity" dur="2s" values="0;1" fill="freeze" begin="0s"/>
+        <tspan dy="0" xml:space="preserve">Hi there! I'm Aruna!</tspan>
+    </text>
 </svg>
