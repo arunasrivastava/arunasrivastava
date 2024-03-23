@@ -1,6 +1,4 @@
 <img src="imagery.svg"></img> 
-
-
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Delving into innovative technologies and crafting software solutions for global tech challenges.
