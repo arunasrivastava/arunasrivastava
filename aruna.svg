@@ -38,7 +38,6 @@
     <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan10.end;tspan11.end" fill="freeze" />
     <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan11.end;tspan12.end" fill="freeze" />
     <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan12.end;tspan13.end" fill="freeze" />
-    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan13.end;tspan14.end" fill="freeze"
     <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan13.end;tspan14.end" fill="freeze" />
     <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan14.end;tspan15.end" fill="freeze" />
     <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan15.end;tspan16.end" fill="freeze" />
@@ -47,4 +46,3 @@
     <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan18.end;tspan19.end" fill="freeze" />
   </text>
 </svg>
-
