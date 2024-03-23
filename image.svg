@@ -17,9 +17,9 @@
     <g fill="#9932cc" opacity="0.1">
         <path>
             <animate repeatCount="indefinite" attributeName="d" dur="25s" values="
-                M0,100 Q100,550 300,100 T800,100 Z;
+                M0,50 Q100,550 300,50 T800,50 Z;
                 
-                M0,100 Q600,400 1200,100 T2000,100 Z
+                M0,50 Q600,400 1200,50 T2000,50 Z
             "/>
         </path>
     </g>
@@ -28,9 +28,9 @@
     <g fill="#ba55d3" opacity="0.15">
         <path>
             <animate repeatCount="indefinite" attributeName="d" dur="30s" values="
-                M0,200 Q50,700 250,200 T800,200 Z;
+                M0,100 Q50,700 250,100 T800,100 Z;
                 
-                M0,200 Q700,500 1400,200 T2400,200 Z
+                M0,100 Q700,500 1400,100 T2400,100 Z
             "/>
         </path>
     </g>
@@ -39,9 +39,9 @@
     <g fill="#da70d6" opacity="0.2">
         <path>
             <animate repeatCount="indefinite" attributeName="d" dur="35s" values="
-                M0,300 Q25,850 200,300 T800,300 Z;
+                M0,150 Q25,850 200,150 T800,150 Z;
                 
-                M0,300 Q800,700 1600,300 T2800,300 Z
+                M0,150 Q800,700 1600,150 T2800,150 Z
             "/>
         </path>
     </g>
@@ -50,9 +50,9 @@
     <g fill="#ee82ee" opacity="0.25">
         <path>
             <animate repeatCount="indefinite" attributeName="d" dur="40s" values="
-                M0,400 Q0,1000 200,400 T800,400 Z;
+                M0,200 Q0,1000 200,200 T800,200 Z;
                 
-                M0,400 Q900,900 1800,400 T3200,400 Z
+                M0,200 Q900,900 1800,200 T3200,200 Z
             "/>
         </path>
     </g>
