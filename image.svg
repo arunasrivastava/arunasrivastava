@@ -1,6 +1,8 @@
 <svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
     <!-- Waves Background -->
     <rect width="100%" height="100%" fill="none" />
+    
+    <!-- First Layer -->
     <g fill="#8a2be2" opacity="0.05">
         <path>
             <animate repeatCount="indefinite" attributeName="d" dur="20s" values="
@@ -10,39 +12,47 @@
             "/>
         </path>
     </g>
+    
+    <!-- Second Layer -->
     <g fill="#9932cc" opacity="0.1">
         <path>
             <animate repeatCount="indefinite" attributeName="d" dur="25s" values="
-                M0,0 Q100,450 300,0 T800,0 Z;
+                M0,100 Q100,550 300,100 T800,100 Z;
                 
-                M0,0 Q600,300 1200,0 T2000,0 Z
+                M0,100 Q600,400 1200,100 T2000,100 Z
             "/>
         </path>
     </g>
+    
+    <!-- Third Layer -->
     <g fill="#ba55d3" opacity="0.15">
         <path>
             <animate repeatCount="indefinite" attributeName="d" dur="30s" values="
-                M0,0 Q50,500 250,0 T800,0 Z;
+                M0,200 Q50,700 250,200 T800,200 Z;
                 
-                M0,0 Q700,400 1400,0 T2400,0 Z
+                M0,200 Q700,500 1400,200 T2400,200 Z
             "/>
         </path>
     </g>
+    
+    <!-- Fourth Layer -->
     <g fill="#da70d6" opacity="0.2">
         <path>
             <animate repeatCount="indefinite" attributeName="d" dur="35s" values="
-                M0,0 Q25,550 200,0 T800,0 Z;
+                M0,300 Q25,850 200,300 T800,300 Z;
                 
-                M0,0 Q800,500 1600,0 T2800,0 Z
+                M0,300 Q800,700 1600,300 T2800,300 Z
             "/>
         </path>
     </g>
+    
+    <!-- Fifth Layer -->
     <g fill="#ee82ee" opacity="0.25">
         <path>
             <animate repeatCount="indefinite" attributeName="d" dur="40s" values="
-                M0,0 Q0,600 200,0 T800,0 Z;
+                M0,400 Q0,1000 200,400 T800,400 Z;
                 
-                M0,0 Q900,550 1800,0 T3200,0 Z
+                M0,400 Q900,900 1800,400 T3200,400 Z
             "/>
         </path>
     </g>
