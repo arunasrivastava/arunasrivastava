@@ -1,4 +1,7 @@
-<img src="imagery.svg"></img> 
+<div style="position: relative; width: 100%; height: 100%;">
+    <!-- Background image -->
+    <img src="imagery.svg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" />
+</div>
 ### 💻 &nbsp;About Me
 
 - 🤔 &nbsp; Delving into innovative technologies and crafting software solutions for global tech challenges.
