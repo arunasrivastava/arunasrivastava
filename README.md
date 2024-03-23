@@ -9,7 +9,7 @@
 - 🎓 &nbsp; Studying Computer Science at the University of Washington.
 
 <details>
-  <summary><b style="font-size: larger;">🛠 &nbsp;My Tech Stack</b></summary>
+  <summary><b style="font-size: 20em;">🛠 &nbsp;My Tech Stack</b></summary>
 
 
 - 🌐 &nbsp; Frontend
