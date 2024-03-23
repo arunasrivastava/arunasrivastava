@@ -9,8 +9,9 @@
 - 🎓 &nbsp; Studying Computer Science at the University of Washington.
 
 <details>
-  <summary><b>🛠 &nbsp;My Tech Stack</b></summary>
+  <summary><h3>🛠 &nbsp;My Tech Stack</h3></summary>
   <br/>
+
 - 🌐 &nbsp; Frontend
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
