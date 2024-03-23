@@ -46,8 +46,8 @@ d: path("M 0,400 L 0,233 C 38.52208657047724,233.0980638796399 77.04417314095448
 
 
 <!-- Text -->
-  <text x="20" y="50" fill="#ffffff" font-size="36" font-family="Verdana" text-anchor="left">
-    <tspan dy="1.2em">Hi there! I'm Aruna!</tspan>
+  <text x="20" y="50" fill="#ffffff" font-size="36" font-family="Verdana" text-anchor="left" dominant-baseline="middle">
+    <tspan dy="1.2em" x="20">Hi there! I'm Aruna!</tspan>
   </text>
   
 
