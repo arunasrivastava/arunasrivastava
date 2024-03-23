@@ -1,8 +1,6 @@
 <svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
   <!-- White line -->
-  <line x1="20" y1="50" x2="580" y2="50" stroke="#ffffff" stroke-width="2">
-    <animate attributeName="stroke-dasharray" dur="2s" repeatCount="indefinite" values="0, 300;300, 0" />
-  </line>
+  <line x1="20" y1="50" x2="580" y2="50" stroke="#ffffff" stroke-width="2" />
   
   <!-- Text -->
   <text x="20" y="50" fill="#ffffff" font-family="Arial" font-size="24">
@@ -25,24 +23,7 @@
     <tspan dy="0" x="20" id="tspan17" style="fill-opacity:0;">u</tspan>
     <tspan dy="0" x="20" id="tspan18" style="fill-opacity:0;">n</tspan>
     <tspan dy="0" x="20" id="tspan19" style="fill-opacity:0;">a</tspan>
-    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="0s;tspan1.end" fill="freeze" />
-    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan1.end;tspan2.end" fill="freeze" />
-    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan2.end;tspan3.end" fill="freeze" />
-    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan3.end;tspan4.end" fill="freeze" />
-    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan4.end;tspan5.end" fill="freeze" />
-    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan5.end;tspan6.end" fill="freeze" />
-    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan6.end;tspan7.end" fill="freeze" />
-    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan7.end;tspan8.end" fill="freeze" />
-    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan8.end;tspan9.end" fill="freeze" />
-    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan9.end;tspan10.end" fill="freeze" />
-    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan10.end;tspan11.end" fill="freeze" />
-    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan11.end;tspan12.end" fill="freeze" />
-    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan12.end;tspan13.end" fill="freeze" />
-    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan13.end;tspan14.end" fill="freeze" />
-    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan14.end;tspan15.end" fill="freeze" />
-    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan15.end;tspan16.end" fill="freeze" />
-    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan16.end;tspan17.end" fill="freeze" />
-    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan17.end;tspan18.end" fill="freeze" />
-    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan18.end;tspan19.end" fill="freeze" />
+    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="0s" repeatCount="19" fill="freeze" />
+    <set attributeName="fill-opacity" to="0" begin="19*0.5s" fill="freeze" />
   </text>
 </svg>
