@@ -50,7 +50,7 @@ d: path("M 0,400 L 0,233 C 38.52208657047724,233.0980638796399 77.04417314095448
   </text>
   <line x1="0" y1="500" x2="40%" y2="500" stroke="#ffffff" stroke-width="8" />
 
-  <text x="20" y="650" fill="#ffffff" font-size="24" font-family="Arial" text-anchor="left" dominant-baseline="middle">
+  <text x="20" y="650" fill="#ffffff" font-size="34" font-family="Arial" text-anchor="left" dominant-baseline="middle">
     <tspan dy="1.2em" x="20">Let's get building </tspan>
   </text>
 </svg>
