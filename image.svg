@@ -57,6 +57,27 @@
         </path>
     </g>
 
+    <!-- Additional Waves from Top Right Corner -->
+    <g fill="#8a2be2" opacity="0.05">
+        <path>
+            <animate repeatCount="indefinite" attributeName="d" dur="20s" values="
+                M800,0 Q600,350 400,0 T0,0 Z;
+                
+                M900,0 Q1200,150 1600,0 T2400,0 Z
+            "/>
+        </path>
+    </g>
+    
+    <g fill="#9932cc" opacity="0.1">
+        <path>
+            <animate repeatCount="indefinite" attributeName="d" dur="25s" values="
+                M800,0 Q700,450 500,0 T0,0 Z;
+                
+                M1300,0 Q1000,100 400,0 T-600,0 Z
+            "/>
+        </path>
+    </g>
+    
     <!-- Text with Typing Animation -->
     <text x="50%" y="50%" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="#ffffff" dominant-baseline="middle">
         <animate attributeName="opacity" dur="2s" values="0;1" fill="freeze" begin="0s"/>
