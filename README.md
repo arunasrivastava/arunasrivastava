@@ -1,4 +1,6 @@
-<img src="imagery.svg" height="50%" alt="Imagery">
+<div style="height: 50%;">
+    <img src="imagery.svg" style="width: 100%; height: 100%;" alt="Imagery">
+</div>
 
 ### 💻 &nbsp;About Me
 
