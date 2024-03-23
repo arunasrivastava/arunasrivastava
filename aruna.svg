@@ -1,1 +1,41 @@
-
+<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- White line -->
+  <line x1="20" y1="50" x2="580" y2="50" stroke="#ffffff" stroke-width="2">
+    <animate attributeName="stroke-dasharray" dur="2s" repeatCount="indefinite" values="0, 300;300, 0" />
+  </line>
+  
+  <!-- Text -->
+  <text x="20" y="50" fill="#ffffff" font-family="Arial" font-size="24">
+    <tspan dy="0" x="20" id="tspan1" style="fill-opacity:0;">H</tspan>
+    <tspan dy="0" x="20" id="tspan2" style="fill-opacity:0;">i</tspan>
+    <tspan dy="0" x="20" id="tspan3" style="fill-opacity:0;"> </tspan>
+    <tspan dy="0" x="20" id="tspan4" style="fill-opacity:0;">t</tspan>
+    <tspan dy="0" x="20" id="tspan5" style="fill-opacity:0;">h</tspan>
+    <tspan dy="0" x="20" id="tspan6" style="fill-opacity:0;">e</tspan>
+    <tspan dy="0" x="20" id="tspan7" style="fill-opacity:0;">r</tspan>
+    <tspan dy="0" x="20" id="tspan8" style="fill-opacity:0;">e</tspan>
+    <tspan dy="0" x="20" id="tspan9" style="fill-opacity:0;">!</tspan>
+    <tspan dy="0" x="20" id="tspan10" style="fill-opacity:0;"> </tspan>
+    <tspan dy="0" x="20" id="tspan11" style="fill-opacity:0;">I</tspan>
+    <tspan dy="0" x="20" id="tspan12" style="fill-opacity:0;">'</tspan>
+    <tspan dy="0" x="20" id="tspan13" style="fill-opacity:0;">m</tspan>
+    <tspan dy="0" x="20" id="tspan14" style="fill-opacity:0;"> </tspan>
+    <tspan dy="0" x="20" id="tspan15" style="fill-opacity:0;">A</tspan>
+    <tspan dy="0" x="20" id="tspan16" style="fill-opacity:0;">r</tspan>
+    <tspan dy="0" x="20" id="tspan17" style="fill-opacity:0;">u</tspan>
+    <tspan dy="0" x="20" id="tspan18" style="fill-opacity:0;">n</tspan>
+    <tspan dy="0" x="20" id="tspan19" style="fill-opacity:0;">a</tspan>
+    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="0s;tspan1.end" fill="freeze" />
+    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan1.end;tspan2.end" fill="freeze" />
+    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan2.end;tspan3.end" fill="freeze" />
+    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan3.end;tspan4.end" fill="freeze" />
+    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan4.end;tspan5.end" fill="freeze" />
+    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan5.end;tspan6.end" fill="freeze" />
+    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan6.end;tspan7.end" fill="freeze" />
+    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan7.end;tspan8.end" fill="freeze" />
+    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan8.end;tspan9.end" fill="freeze" />
+    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan9.end;tspan10.end" fill="freeze" />
+    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan10.end;tspan11.end" fill="freeze" />
+    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan11.end;tspan12.end" fill="freeze" />
+    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan12.end;tspan13.end" fill="freeze" />
+    <animate attributeName="fill-opacity" values="0;1" dur="0.5s" begin="tspan13.end;tspan14.end" fill="freeze"
