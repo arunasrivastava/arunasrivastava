@@ -1,5 +1,5 @@
 <div style="height: 50%;">
-    <img src="images-a.svg" style="width: 100%; height: 100%;" alt="Imagery">
+    <img src="aruna.svg" style="width: 100%; height: 100%;" alt="Imagery">
 </div>
 
 ### 💻 &nbsp;About Me
