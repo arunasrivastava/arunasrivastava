@@ -45,6 +45,8 @@
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arunasrivastava&show_icons=true&theme=radical" /> -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arunasrivastava&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
+   <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="80" />
+
 </p>
 
 
