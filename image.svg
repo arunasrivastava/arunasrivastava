@@ -64,3 +64,24 @@
                 M800,0 C900,-50 1000,200 1100,0 S1200,-50 1300,0 S1400,100 1500,0 S1600,-50 1700,0 S1800,0 1900,0 S2000,100 2100,0 Z;
                 
                 M900,0 C1000,-50 1100,200 1200,0 S1300,-50 1400,0 S1500,100 1600,0 S1700,-50 1800,0 S1900,0 2000,0
+, S2100,100 2200,0 Z
+            "/>
+        </path>
+    </g>
+    
+    <g fill="#9932cc" opacity="0.1">
+        <path>
+            <animate repeatCount="indefinite" attributeName="d" dur="25s" values="
+                M800,0 C850,-50 950,150 1050,0 S1150,-50 1250,0 S1350,100 1450,0 S1550,-50 1650,0 S1750,0 1850,0 S1950,100 2050,0 Z;
+                
+                M1300,0 C1250,-50 1150,150 1050,0 S950,-50 850,0 S750,100 650,0 S550,-50 450,0 S350,0 250,0 S150,100 50,0 Z
+            "/>
+        </path>
+    </g>
+    
+    <!-- Text with Typing Animation -->
+    <text x="50%" y="50%" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="#ffffff" dominant-baseline="middle">
+        <animate attributeName="opacity" dur="2s" values="0;1" fill="freeze" begin="0s"/>
+        <tspan dy="0" xml:space="preserve">Hi there! I'm Aruna!</tspan>
+    </text>
+</svg>
