@@ -57,7 +57,7 @@
 
 ##  🤝🏻 &nbsp;Connect with Me
 <p>
-   &nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/arunasri"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" width="50" height="50"/></a>
     &nbsp;&nbsp;
   <a href="mailto:arunasrivastava.245@gmail.com"><img src="https://static.vecteezy.com/system/resources/previews/020/964/377/original/gmail-mail-icon-for-web-design-free-png.png" width="50" height="50"/></a>
