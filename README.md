@@ -9,8 +9,8 @@
 - 🎓 &nbsp; Studying Computer Science at the University of Washington.
 
 <details>
-  <summary><h3>🛠 &nbsp;My Tech Stack</h3></summary>
-  <br/>
+  <summary><h4>🛠 &nbsp;My Tech Stack</h4></summary>
+
 
 - 🌐 &nbsp; Frontend
   
