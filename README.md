@@ -1,8 +1,5 @@
-<div style="background-image: url('imagery.svg');">
-    <img src="imagery.svg" style="opacity: 0;" />
-    <h3>💻 &nbsp;About Me</h3>
-</div>
-### 💻 &nbsp;About Me 
+<img src="imagery.svg" style="width: 100%; height: auto;" />
+### 💻 &nbsp;About Me
 
 - 🤔 &nbsp; Delving into innovative technologies and crafting software solutions for global tech challenges.
 - 🥰 &nbsp; Passionate about delving into diverse AI domains and leveraging cutting-edge models and tools
