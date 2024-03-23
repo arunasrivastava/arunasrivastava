@@ -1,6 +1,6 @@
 <div style="position: relative; width: 100%; height: 100%;">
     <!-- Background image -->
-    <img src="imagery.svg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" />
+    <img src="imagery.svg" style="position: absolute; top: 0; left: 0; width: 100%; height: 50%;" />
 </div>
 ### 💻 &nbsp;About Me
 
