@@ -1,9 +1,4 @@
-<div style="position: relative;">
-  <img src="imagery.svg" style="width: 100%; height: auto;" />
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-    <h3>💻 &nbsp;About Me</h3>
-  </div>
-</div>
+<img src="imagery.svg"></img> 
 ### 💻 &nbsp;About Me
 
 - 🤔 &nbsp; Delving into innovative technologies and crafting software solutions for global tech challenges.
