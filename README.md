@@ -4,7 +4,7 @@
 
 ### 💻 &nbsp;About Me
 
-- 🗣️ &nbsp; Pushing the boundaries of cutting edge speech and audio models via startup and university research! 
+- 🚀 &nbsp; Pushing the boundaries of speech and audio models
 - 🥰 &nbsp; Passionate about delving into diverse AI domains and leveraging cutting-edge models and tools
 - 🎓 &nbsp; Studying Computer Science at the University of Washington.
 
