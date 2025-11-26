@@ -9,10 +9,10 @@
 - 🎓 &nbsp; CS at the University of Washington. go dawgs!
 
 
-## 🤝🏻 &nbsp; Always happy to chat!  
+## <a href="https://www.linkedin.com/in/arunasr">🤝</a>  &nbsp; Always happy to chat!  
 
 <p>
-  <a href="https://www.linkedin.com/in/arunasr">🤝</a>
+ 
   &nbsp;&nbsp;
   <a href="mailto:arunasrivastava.245@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail" width="40" height="40" alt="Email"/>
