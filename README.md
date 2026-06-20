@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me
 
 - 🚀 &nbsp; Pushing the boundaries of speech and audio models
-- 🥰 &nbsp; Passionate about delving into diverse AI domains and driving technology for social impact!
+- 🥰 &nbsp; Passionate about delving into diverse AI domains and driving technology for social impact and safety!
 - 🎓 &nbsp; CS at the University of Washington. go dawgs!
 
 
